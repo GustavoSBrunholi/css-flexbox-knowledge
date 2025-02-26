@@ -15,6 +15,13 @@ O conteúdo é direto ao ponto, com exemplos práticos e desafios, permitindo qu
 - **Flexbox vs. Grid:** Comparações e melhores práticas.
 - **Desafios e Exercícios:** Para você testar seus conhecimentos.
 
+## Referências
+Abaixo será deixado os sites e conteúdos utilizados como base de conhecimento para a construção do documento.
+
+- [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS - mdn web docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [CSS - w3schools](https://www.w3schools.com/Css/)
+
 ## Como utilizar este material?
 
 1. **Clone o repositório:**
