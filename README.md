@@ -21,6 +21,7 @@ Abaixo será deixado os sites e conteúdos utilizados como base de conhecimento 
 - [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [CSS - mdn web docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [CSS - w3schools](https://www.w3schools.com/Css/)
+- [CSS Flexbox ou Grid Layout? Entenda as Diferenças e Escolha a Melhor Opção](https://www.dio.me/articles/css-flexbox-ou-grid-layout-entenda-as-diferencas-e-escolha-a-melhor-opcao)
 
 ## Como utilizar este material?
 

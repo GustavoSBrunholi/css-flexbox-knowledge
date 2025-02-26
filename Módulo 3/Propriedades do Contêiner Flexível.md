@@ -3,7 +3,7 @@
 ## **3.1 `flex-direction`** – Direção dos elementos
 ![<Representação do flex-direction>](<../imgs/flex-direction-img.png>)
 A propriedade flex-direction define a direção do eixo principal e pode ter quatro valores possíveis:
-```
+```css
 .container {
   flex-direction: row | row-reverse | column | column-reverse;
 }
@@ -16,7 +16,7 @@ A propriedade flex-direction define a direção do eixo principal e pode ter qua
 ## **3.2 `flex-wrap`** – Quebra de linha dos itens
 ![<Representação do flex-wrap>](<../imgs/flex-wrap-img.png>)
 Ele define se os itens flexíveis são forçados a ficarem na mesma linha ou se podem ser quebradas em varias linhas.
-```
+```css
 .container {
   flex-wrap: nowrap | wrap | wrap-reverse;
 }
@@ -26,7 +26,7 @@ Ele define se os itens flexíveis são forçados a ficarem na mesma linha ou se 
 `wrap-reverse:` Se comporta da mesma maneira que o wrap mas a quebra de linhas ocorre na direção contrária, ou seja, de baixo para cima.
 
 ## **3.3 `flex-flow`** – Atalho para `flex-direction` e `flex-wrap`
-```
+```css
 .container {
   flex-flow: column wrap;
 }
@@ -36,7 +36,7 @@ Ele é uma junção das propriedades flex-direction e flex-wrap, que juntas defi
 ## **3.4 `justify-content`** – Alinhamento horizontal dos itens
 ![<Representação do justify-content>](<../imgs/justify-content-img.png>)
 Define como o navegador distribui o espaço entre e ao redor dos itens de conteúdo ao longo do eixo principal de um contêiner flexível.
-```
+```css
 .container {
   justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly | start | end | left | right ... + safe | unsafe;
 }
@@ -67,7 +67,7 @@ Define como o navegador distribui o espaço entre e ao redor dos itens de conte�
 ![<Representação do align-items>](<../imgs/align-items-img.png>)
 Define o comportamento padrão de como os itens flexíveis são dispostos ao longo do eixo cruzado na linha atual.
 
-```
+```css
 .container {
   align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end + ... safe | unsafe;
 }
@@ -87,7 +87,7 @@ Define o comportamento padrão de como os itens flexíveis são dispostos ao lon
 ![<Representação do align-content>](<../imgs/align-content-img.png>)
 Define a distribuição entre e ao redor dos items do conteúdo do eixo transversal de uma flexbox ou do eixo de bloco de uma grid.
 
-```
+```css
 .container {
   align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline + ... safe | unsafe;
 }
