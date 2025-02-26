@@ -19,9 +19,6 @@ Define o fator de crescimento flex, que especifica quanto do espaço livre posit
 }
 ```
 
-
-
-
 ## **4.3 `flex-shrink`** – Redução proporcional dos itens
 Especifica o fator de redução flex, que determina o quanto o item flex será reduzido em relação ao restante dos itens flex no contêiner flex quando o espaço livre negativo for distribuído.
 
